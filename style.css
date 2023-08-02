@@ -29,3 +29,10 @@ body {
     justify-content: space-between;
     align-items: center;
 }
+@media (max-width:900px) {
+    body{
+        font-family: sans-serif;
+        width: 60%;
+        font-size: 50px;
+    }
+}
